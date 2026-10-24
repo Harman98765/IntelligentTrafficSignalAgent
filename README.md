@@ -37,14 +37,6 @@ IntelligentTrafficSignalAgent/
 ├── requirements.txt        # Python dependencies
 ├── test_agent.py           # Agent tests
 ├── test_routing.py         # Routing tests
-├── traffic_sim/
-│   ├── config.py           # Simulation constants and configuration
-│   ├── simulation.py       # Main simulation loop
-│   ├── vehicles.py         # Vehicle movement and routing behavior
-│   ├── signals.py          # Signal control and junction logic
-│   ├── renderer.py         # Roads, vehicles, signals, and on-screen display
-│   ├── logger.py            # CSV logging
-│   └── utils.py             # Shared helpers
 └── data/                   # Optional location for generated data
 ```
 
