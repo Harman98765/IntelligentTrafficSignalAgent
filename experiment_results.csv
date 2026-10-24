@@ -1,0 +1,3 @@
+Mode,Average Waiting Time (seconds),Vehicles Passed,Vehicles Remaining,Maximum Queue Length,Simulation Steps,Random Seed
+FIXED,0.7,460,8,17,3600,42
+AI,0.13,467,1,6,3600,42

@@ -1,0 +1,4 @@
+pygame-ce>=2.5.8
+pandas>=2.0
+streamlit>=1.30
+matplotlib>=3.7
